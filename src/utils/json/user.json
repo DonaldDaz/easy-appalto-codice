@@ -1,0 +1,38 @@
+[
+  {
+    "user": {
+      "name": "Mario",
+      "lastName": "Rossi",
+      "email": "mariorossi76@gmail.com",
+      "birthPlace": "Cosenza",
+      "birthDate": "29/07/1976",
+      "username": "mrossi76",
+      "phoneNumber": "3335544221",
+      "residenza": {
+        "state": "Italia",
+        "city": "Cosenza",
+        "fullAddress": "Via Roma 110",
+        "zipCode": "87100",
+        "prov": "Cosenza"
+      },
+      "abbonamento": {
+        "abbonato": false,
+        "dataScadenza": "",
+        "tipoAbbonamento": 0
+      }
+    },
+    "additionalData": [
+      {
+        "ragSociale": "",
+        "sedeLegale": "",
+        "pIva": "",
+        "codFiscSoc": "",
+        "pec": "",
+        "telSocieta": "",
+        "categPossedute": [],
+        "classPossedute": [],
+        "ruoloInAzienda": ""
+      }
+    ]
+  }
+]

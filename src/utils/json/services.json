@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "title": "Gestione semplice e immediata",
+    "subtitle": "Trova, analizza e partecipa agli appalti pubblici in pochi passaggi, senza complicazioni.",
+    "details": {
+      "mainTitle": "Con EasyAppalto, partecipare agli appalti pubblici non è mai stato così facile. La nostra piattaforma ti permette di:",
+      "args": [
+        "Ricercare rapidamente le gare più adatte alla tua impresa con un motore di ricerca avanzato.",
+        "Analizzare i requisiti e valutare le opportunità con strumenti chiari ed intuitivi.",
+        "Partecipare alle gare in pochi clic, semplificando l’intero processo burocratico."
+      ]
+    },
+    "picurl": "https://img.freepik.com/free-vector/flat-hand-drawn-business-analysis-illustration_1188-560.jpg?t=st=1742756179~exp=1742759779~hmac=4a930cd8b454cf997ca3f7263eb8c229f13687f5b5a8d49b0aeadc9ccf0fe273&w=1380"
+  },
+  {
+    "id": "2",
+    "title": "Automazione sugli avvalimenti",
+    "subtitle": "Semplifica la gestione delle pratiche di avvalimento con un processo rapido e guidato",
+    "details": {
+      "mainTitle": "EasyAppalto rende l’avvalimento semplice ed efficace:",
+      "args": [
+        "Trova partner affidabili grazie al nostro network di imprese qualificate.",
+        "Automatizza la gestione della documentazione e ridurre i tempi burocratici.",
+        "Gestisci tutto online, con un processo chiaro, sicuro e veloce."
+      ]
+    },
+    "picurl": "https://img.freepik.com/free-vector/resume-cv-job-flat-composition-with-doodle-human-characters-stack-papers-hand-lens-laptop-vector-illustration_1284-84160.jpg?t=st=1742756264~exp=1742759864~hmac=3c3113e53fc917cf857f9fb52b9d559b630f024c278337b9b304494b18862885&w=1380"
+  },
+  {
+    "id": "3",
+    "title": "Canone mensile fisso",
+    "subtitle": "Un unico abbonamento per richiedere tutti gli avvalimenti che vuoi, senza limiti o costi extra",
+    "details": {
+      "mainTitle": "Con EasyAppalto, niente più costi nascosti o limiti alle tue opportunità!",
+      "args": [
+        "Avvalimenti illimitati: con il nostro abbonamento mensile fisso, puoi richiedere tutti gli avvalimenti di cui hai bisogno, senza costi aggiuntivi.",
+        "Gestione semplificata: la piattaforma automatizza il processo, riducendo i tempi e le complicazioni burocratiche.",
+        "Investi sul tuo successo: accedi a più gare, amplia il tuo business e sfrutta al massimo le opportunità del mercato."
+      ]
+    },
+    "picurl": "https://downloadscdn6.freepik.com/107791/17/16581.jpg?filename=online-money-transfer-with-3d-phones-coins.jpg&token=exp=1742756697~hmac=1795c6c7dceb01e7109493fe6022abc3&filename=16581.jpg"
+  }
+]

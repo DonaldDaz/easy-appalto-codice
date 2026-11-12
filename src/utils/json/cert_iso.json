@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "certificazione": "CSQ - ISO 9001",
+    "descrizione": "Certificazione dei sistemi di gestione per la qualità - norma ISO 9001"
+  },
+  {
+    "id": 2,
+    "certificazione": "CSQ-ECO - ISO 14001",
+    "descrizione": "Certificazione dei sistemi di gestione ambientale - norma ISO 14001"
+  },
+  {
+    "id": 3,
+    "certificazione": "CSQ-Energy - ISO 50001",
+    "descrizione": "Certificazione dei sistemi di gestione dell'energia - norma ISO 50001"
+  },
+  {
+    "id": 4,
+    "certificazione": "CSQ-H&S - BS OHSAS 45001",
+    "descrizione": "Certificazione dei sistemi di gestione della salute e della sicurezza sul luogo di lavoro - norma BS OHSAS 45001"
+  },
+  {
+    "id": 5,
+    "certificazione": "CSQ-DATA - ISO/IEC 27001",
+    "descrizione": "Certificazione dei sistemi di gestione della sicurezza delle informazioni - norma ISO/IEC 27001"
+  },
+  {
+    "id": 6,
+    "certificazione": "CSQ-ITSM - ISO/IEC 20000-1",
+    "descrizione": "Certificazione dei sistemi di gestione per l'IT Service Management - norma ISO/IEC 20000-1"
+  },
+  {
+    "id": 7,
+    "certificazione": "CSQ-MED - ISO 13485",
+    "descrizione": "Certificazione dei sistemi di gestione qualità per il settore medicale - norma ISO 13485"
+  },
+  {
+    "id": 8,
+    "certificazione": "CSQ-ICT - TL 9000",
+    "descrizione": "Certificazione dei sistemi di gestione qualità per il settore ICT - norme specifiche quali TL 9000"
+  },
+  {
+    "id": 9,
+    "certificazione": "CSQ-AUTO - ISO TS 16949",
+    "descrizione": "Certificazione dei sistemi di gestione qualità per il settore automotive - norma ISO TS 16949"
+  },
+  {
+    "id": 10,
+    "certificazione": "CSQ-FOOD - ISO 22000",
+    "descrizione": "Certificazione dei sistemi di gestione della sicurezza alimentare - norma ISO 22000"
+  },
+  {
+    "id": 11,
+    "certificazione": "CSQ-HACCP - UNI 10854",
+    "descrizione": "Certificazione dei sistemi di auto-controllo basato sul metodo HACCP per il settore agroalimentare"
+  },
+  {
+    "id": 12,
+    "certificazione": "CSQ-BCM - ISO 22301",
+    "descrizione": "Certificazione dei sistemi di gestione per la continuità operativa - norma ISO 22301"
+  },
+  {
+    "id": 13,
+    "certificazione": "EMAS - Reg. 1221/2009 (EMAS 3)",
+    "descrizione": "Verifica e convalida della Dichiarazione Ambientale secondo il Regolamento 1221/2009 (EMAS 3)"
+  },
+  {
+    "id": 14,
+    "certificazione": "Q-WEB",
+    "descrizione": "Certificazione di qualità dei siti web, destinata a tutte le realtà che promuovono e offrono servizi online"
+  },
+  {
+    "id": 15,
+    "certificazione": "SA 8000",
+    "descrizione": "Certificazione SA 8000. IMQ/CSQ aderisce al network IQNET (International Certification Network)"
+  },
+  {
+    "id": 16,
+    "certificazione": "IRIS",
+    "descrizione": "Certificazione per la valutazione dei sistemi di gestione per la qualità dei fornitori e del sistema ferroviario"
+  }
+]

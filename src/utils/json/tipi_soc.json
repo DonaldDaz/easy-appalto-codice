@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "sigla": "S.p.A.",
+    "descrizione": "Società per Azioni - società di capitali con responsabilità limitata al capitale sociale, adatta per grandi imprese"
+  },
+  {
+    "id": 2,
+    "sigla": "S.r.l.",
+    "descrizione": "Società a Responsabilità Limitata - società di capitali con responsabilità limitata al capitale sociale, flessibile e diffusa tra le PMI"
+  },
+  {
+    "id": 3,
+    "sigla": "S.r.l.s.",
+    "descrizione": "Società a Responsabilità Limitata Semplificata - variante della S.r.l. con costi di costituzione ridotti e capitale minimo di 1 euro"
+  },
+  {
+    "id": 4,
+    "sigla": "S.a.s.",
+    "descrizione": "Società in Accomandita Semplice - società di persone con soci accomandatari (illimitatamente responsabili) e accomandanti (responsabili solo per la quota conferita)"
+  },
+  {
+    "id": 5,
+    "sigla": "S.n.c.",
+    "descrizione": "Società in Nome Collettivo - società di persone in cui tutti i soci rispondono illimitatamente per le obbligazioni sociali"
+  },
+  {
+    "id": 6,
+    "sigla": "S.a.p.a.",
+    "descrizione": "Società in Accomandita per Azioni - società di capitali con soci accomandatari (illimitatamente responsabili) e accomandanti (responsabili solo per le azioni detenute)"
+  },
+  {
+    "id": 7,
+    "sigla": "Cooperativa",
+    "descrizione": "Società Cooperativa - società in cui i soci si uniscono per soddisfare bisogni economici, sociali o culturali attraverso un'impresa comune"
+  },
+  {
+    "id": 8,
+    "sigla": "S.s.",
+    "descrizione": "Società Semplice - forma base di società di persone, utilizzata per attività non commerciali come la gestione di patrimoni immobiliari"
+  },
+  {
+    "id": 9,
+    "sigla": "Start-up Innovativa",
+    "descrizione": "Impresa innovativa con particolari vantaggi fiscali e burocratici, iscritta nella sezione speciale del Registro delle Imprese"
+  },
+  {
+    "id": 10,
+    "sigla": "Impresa Individuale",
+    "descrizione": "Attività economica gestita da una sola persona fisica, con responsabilità illimitata sui debiti dell'impresa"
+  },
+  {
+    "id": 11,
+    "sigla": "Holding",
+    "descrizione": "Società che detiene partecipazioni in altre aziende, senza operare direttamente nella produzione di beni o servizi"
+  },
+  {
+    "id": 12,
+    "sigla": "Società Benefit",
+    "descrizione": "Società che persegue sia scopi di lucro che benefici per la collettività e l’ambiente, con obblighi di trasparenza e responsabilità"
+  }
+]

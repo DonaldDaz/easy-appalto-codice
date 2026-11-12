@@ -1,0 +1,39 @@
+[
+  {
+    "tipoAbbonamento": "Gratuito",
+    "costo": 0,
+    "descrizione": "Attiva ora il tuo piano Trial da 30 giorni",
+    "serviziInclusi": ["Accesso completo ai contenuti", "Rimozione pubblicità"]
+  },
+  {
+    "tipoAbbonamento": "Mensile",
+    "costo": 100,
+    "descrizione": "Al mese. Cancella quando vuoi.",
+    "serviziInclusi": ["Accesso completo ai contenuti", "Rimozione pubblicità"]
+  },
+  {
+    "tipoAbbonamento": "Trimestrale",
+    "costo": 200,
+    "descrizione": "Ogni 3 mesi. Cancella quando vuoi.",
+    "serviziInclusi": [
+      "Accesso completo ai contenuti",
+      "Rimozione pubblicità",
+      "Sconti su acquisti extra",
+      "Accesso a funzionalità premium"
+    ]
+  },
+  {
+    "tipoAbbonamento": "Annuale",
+    "costo": 400,
+    "descrizione": "All'anno. Cancella quando vuoi.",
+    "serviziInclusi": [
+      "Accesso completo ai contenuti",
+      "Rimozione pubblicità",
+      "Sconti su acquisti extra",
+      "Accesso a funzionalità premium",
+      "Supporto prioritario",
+      "Accesso anticipato alle nuove funzionalità",
+      "Sconto per rinnovo automatico"
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+.bg-primary {
+  background-color: #17726d !important;
+}
+
+.text-primary {
+  color: #17726d !important;
+}
+
+.btn-primary {
+  background-color: #17726d !important;
+  border-color: #17726d;
+}
+
+.btn-primary:hover {
+  border-color: #104f4c !important;
+  background-color: #104f4c !important;
+}
+
+.btn-primary:active {
+  border-color: #092d2b !important;
+  background-color: #092d2b !important;
+}
+
+.text-blue {
+  color: #0d6efd !important;
+}
+
+.sign-in .css-1usuzwp-MuiButtonBase-root-MuiTab-root.Mui-selected,
+.css-6p016c.Mui-selected {
+  color: #17726d !important;
+}
+
+.sign-in .css-1qltlow-MuiTabs-indicator,
+.css-jkmkwa {
+  background-color: #17726d !important;
+}

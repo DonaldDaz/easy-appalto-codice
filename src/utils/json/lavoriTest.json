@@ -1,0 +1,226 @@
+[
+  {
+    "dettaglioAppalto": {
+      "stazioneAppaltante": {
+        "codiceAUSA": "0000160487",
+        "cfAmministrazioneAppaltante": "00269990651",
+        "amministrazioneAppaltante": "COMUNE DI MAIORI",
+        "idCentroCosto": "A48029B8-9E64-4351-BDD2-CD846C7D62E4",
+        "denominazioneCentroCosto": "AREA LL.PP. E TECNICO-MANUTENTIVA",
+        "regione": "CAMPANIA",
+        "citta": "MAIORI",
+        "indirizzo": "CORSO REGINNA 71",
+        "istatComune": "015065066",
+        "sezioneRegionale": "SEZIONE REGIONALE CAMPANIA"
+      },
+      "bando": {
+        "dataScadenzaOfferta": "03/03/2025",
+        "tipoCIG": "ORDINARIO",
+        "numeroGara": "00482-92",
+        "CIG": "B56ECD60AA",
+        "oggettoGara": "BANDO-DISCIPLINARE DI GARA RELATIVO ALLA PROGETTAZIONE ESECUTIVA ED ESECUZIONE DEI LAVORI RIGUARDANTI L'INTERVENTO DENOMINATO REALIZZAZIONE DI UNA MENSA PRESSO L'ISTITUTO SCOLASTICO R. ROSSELLINI DI MAIORI",
+        "importoBaseGara": "558.005,70 €"
+      },
+      "CPV": {
+        "codCPV": "45210000-2",
+        "descrizioneCPV": "LAVORI GENERALI DI COSTRUZIONE DI EDIFICI",
+        "flagPrevalente": 1
+      },
+      "importi": {
+        "importoComplessivoGara": "558.005,70 €",
+        "importoSicurezza": "15.900,00 €"
+      },
+      "CUP": "F95E23000090006",
+      "lotto": {
+        "nLottiComponenti": 1,
+        "valoreComplessivoStimato": "558.005,70 €"
+      },
+      "procedura": {
+        "codTipoSceltaContraente": 1,
+        "tipoSceltaContraente": "PROCEDURA APERTA",
+        "codModalitaRealizzazione": "999",
+        "modalitaRealizzazione": "ND"
+      },
+      "luogo": {
+        "istat": "065066",
+        "siglaProvincia": "SALERNO",
+        "nuts": "ITF3"
+      },
+      "esclusione": {
+        "flagEscluso": 0,
+        "motivoEsclusione": "PER QUESTO TIPO DI CONTRATTO NON È PREVISTO NESSUN TIPO DI ESCLUSIONE"
+      },
+      "contratto": {
+        "tipologia": "LAVORI",
+        "stato": "ATTIVO",
+        "settore": "SETTORI ORDINARI",
+        "dettaglioStato": {
+          "dataUltimoPerfezionamento": "30/01/2025"
+        }
+      },
+      "deleghe": {
+        "flagDelega": 0,
+        "cfSADelegante": "00269990651",
+        "denominazioneSADelegante": "COMUNE DI MAIORI"
+      },
+      "urgenza": {
+        "flagUrgenza": 1,
+        "codMotivoUrgenza": 7,
+        "motivoUrgenza": "non applicabile"
+      },
+      "ipotesiCollegamento": {
+        "codIpotesiCollegamento": 10,
+        "ipotesiCollegamento": "NO, NESSUNA IPOTESI DI COLLEGAMENTO"
+      },
+      "tipoAppaltoRiservato": "LA PARTECIPAZIONE NON È RISERVATA.",
+      "PNRR_PNC": 1,
+      "flagQuote": "N",
+      "pubblicazioni": {
+        "dataCreazione": "30/01/2025",
+        "dataPubblicazione": "31/01/2025",
+        "dataGURI": "31/01/2025",
+        "linkSitoCommittente": "https://app.albofornitori.it/alboeproc/albo_comunemaiori"
+      },
+      "categorieOpera": [
+        {
+          "idCategoria": "OG 1",
+          "descrizione": "OG 1 - EDIFICI CIVILI E INDUSTRIALI",
+          "codTipoCategoria": "S",
+          "descrizioneTipoCategoria": "SCORPORABILE"
+        },
+        {
+          "idCategoria": "OG 1",
+          "descrizione": "OG 1 - EDIFICI CIVILI E INDUSTRIALI",
+          "codTipoCategoria": "P",
+          "descrizioneTipoCategoria": "PREVALENTE"
+        }
+      ],
+      "categorieDPCM": {
+        "codCategoriaMerceologicaDPCM": "999",
+        "categoriaMerceologicaDPCM": "LAVORI OPPURE BENI E SERVIZI NON ELENCATI NELL'ART. 1 DPCM 24 DICEMBRE 2015"
+      },
+      "lavorazioni": {
+        "codTipoLavorazione": 6,
+        "tipoLavorazione": "COSTRUZIONE"
+      },
+      "incaricati": {
+        "nome": "ROBERTO",
+        "cognome": "DI MARTINO",
+        "codRuolo": "RUP",
+        "descrizioneRuolo": "RESPONSABILE UNICO DEL PROCEDIMENTO"
+      }
+    }
+  },
+  {
+    "dettaglioAppalto": {
+      "stazioneAppaltante": {
+        "codiceAUSA": "0000160487",
+        "cfAmministrazioneAppaltante": "00269990651",
+        "amministrazioneAppaltante": "COMUNE DI MAIORI",
+        "idCentroCosto": "A48029B8-9E64-4351-BDD2-CD846C7D62E4",
+        "denominazioneCentroCosto": "AREA LL.PP. E TECNICO-MANUTENTIVA",
+        "regione": "CAMPANIA",
+        "citta": "MAIORI",
+        "indirizzo": "CORSO REGINNA 71",
+        "istatComune": "015065066",
+        "sezioneRegionale": "SEZIONE REGIONALE CAMPANIA"
+      },
+      "bando": {
+        "dataScadenzaOfferta": "03/03/2025",
+        "tipoCIG": "ORDINARIO",
+        "numeroGara": "00482-94",
+        "CIG": "B56ECD60AA",
+        "oggettoGara": "BANDO-DISCIPLINARE DI GARA RELATIVO ALLA PROGETTAZIONE ESECUTIVA ED ESECUZIONE DEI LAVORI RIGUARDANTI L'INTERVENTO DENOMINATO REALIZZAZIONE DI UNA MENSA PRESSO L'ISTITUTO SCOLASTICO R. ROSSELLINI DI MAIORI",
+        "importoBaseGara": "558.005,70 €"
+      },
+      "CPV": {
+        "codCPV": "45210000-2",
+        "descrizioneCPV": "LAVORI GENERALI DI COSTRUZIONE DI EDIFICI",
+        "flagPrevalente": 1
+      },
+      "importi": {
+        "importoComplessivoGara": "558.005,70 €",
+        "importoSicurezza": "15.900,00 €"
+      },
+      "CUP": "F95E23000090006",
+      "lotto": {
+        "nLottiComponenti": 1,
+        "valoreComplessivoStimato": "558.005,70 €"
+      },
+      "procedura": {
+        "codTipoSceltaContraente": 1,
+        "tipoSceltaContraente": "PROCEDURA APERTA",
+        "codModalitaRealizzazione": "999",
+        "modalitaRealizzazione": "ND"
+      },
+      "luogo": {
+        "istat": "065066",
+        "siglaProvincia": "SALERNO",
+        "nuts": "ITF3"
+      },
+      "esclusione": {
+        "flagEscluso": 0,
+        "motivoEsclusione": "PER QUESTO TIPO DI CONTRATTO NON È PREVISTO NESSUN TIPO DI ESCLUSIONE"
+      },
+      "contratto": {
+        "tipologia": "LAVORI",
+        "stato": "ATTIVO",
+        "settore": "SETTORI ORDINARI",
+        "dettaglioStato": {
+          "dataUltimoPerfezionamento": "30/01/2025"
+        }
+      },
+      "deleghe": {
+        "flagDelega": 0,
+        "cfSADelegante": "00269990651",
+        "denominazioneSADelegante": "COMUNE DI MAIORI"
+      },
+      "urgenza": {
+        "flagUrgenza": 1,
+        "codMotivoUrgenza": 7,
+        "motivoUrgenza": "non applicabile"
+      },
+      "ipotesiCollegamento": {
+        "codIpotesiCollegamento": 10,
+        "ipotesiCollegamento": "NO, NESSUNA IPOTESI DI COLLEGAMENTO"
+      },
+      "tipoAppaltoRiservato": "LA PARTECIPAZIONE NON È RISERVATA.",
+      "PNRR_PNC": 1,
+      "flagQuote": "N",
+      "pubblicazioni": {
+        "dataCreazione": "30/01/2025",
+        "dataPubblicazione": "31/01/2025",
+        "dataGURI": "31/01/2025",
+        "linkSitoCommittente": "https://app.albofornitori.it/alboeproc/albo_comunemaiori"
+      },
+      "categorieOpera": [
+        {
+          "idCategoria": "OG 1",
+          "descrizione": "OG 1 - EDIFICI CIVILI E INDUSTRIALI",
+          "codTipoCategoria": "S",
+          "descrizioneTipoCategoria": "SCORPORABILE"
+        },
+        {
+          "idCategoria": "OG 1",
+          "descrizione": "OG 1 - EDIFICI CIVILI E INDUSTRIALI",
+          "codTipoCategoria": "P",
+          "descrizioneTipoCategoria": "PREVALENTE"
+        }
+      ],
+      "categorieDPCM": {
+        "codCategoriaMerceologicaDPCM": "999",
+        "categoriaMerceologicaDPCM": "LAVORI OPPURE BENI E SERVIZI NON ELENCATI NELL'ART. 1 DPCM 24 DICEMBRE 2015"
+      },
+      "lavorazioni": {
+        "codTipoLavorazione": 6,
+        "tipoLavorazione": "COSTRUZIONE"
+      },
+      "incaricati": {
+        "nome": "ROBERTO",
+        "cognome": "DI MARTINO",
+        "codRuolo": "RUP",
+        "descrizioneRuolo": "RESPONSABILE UNICO DEL PROCEDIMENTO"
+      }
+    }
+  }
+]

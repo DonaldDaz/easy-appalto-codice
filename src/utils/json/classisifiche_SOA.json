@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "classifica": "I",
+    "descrizione": "fino a euro 258.000"
+  },
+  {
+    "id": 2,
+    "classifica": "II",
+    "descrizione": "fino a euro 516.000"
+  },
+  {
+    "id": 3,
+    "classifica": "III",
+    "descrizione": "fino a euro 1.033.000"
+  },
+  {
+    "id": 4,
+    "classifica": "III bis",
+    "descrizione": "fino a euro 1.500.000"
+  },
+  {
+    "id": 5,
+    "classifica": "IV",
+    "descrizione": "fino a euro 2.582.000"
+  },
+  {
+    "id": 6,
+    "classifica": "IV bis",
+    "descrizione": "fino a euro 3.500.000"
+  },
+  {
+    "id": 7,
+    "classifica": "V",
+    "descrizione": "fino a euro 5.165.000"
+  },
+  {
+    "id": 8,
+    "classifica": "VI",
+    "descrizione": "fino a euro 10.329.000"
+  },
+  {
+    "id": 9,
+    "classifica": "VII",
+    "descrizione": "fino a euro 15.494.000"
+  },
+  {
+    "id": 10,
+    "classifica": "VIII",
+    "descrizione": "oltre euro 15.494.000"
+  }
+]
